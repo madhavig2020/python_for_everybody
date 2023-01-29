@@ -2,5 +2,5 @@
 # Enter your name : Chuck
 # Hello Chuck
 
-name = input("Please enter your name: ")
-print("Hello " + name)
+name = input("Please enter your name: \n")
+print("Hello ", name)
